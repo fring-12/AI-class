@@ -99,5 +99,67 @@
 ## Slide 11 – Conclusion
 - **In Action:** AI tools like SciSpace showcase how technology enhances efficiency, enabling researchers to focus on deeper analysis and critical thinking.
 - **Final Thought:** Even simple NLP tools can make a significant difference in the speed and quality of research workflows.
-```
+
+
+# AI for Literature Review and Knowledge Synthesis
+
+---
+
+## Slide 12 – Finding Relevant Papers with AI
+
+- **Traditional Keyword-Based Searches:**  
+  - Often miss relevant papers due to varying terminology or emerging concepts.  
+  - Limited to exact word matches, potentially overlooking key research.
+
+- **AI-Powered Search Engines:**  
+  - **Semantic Search:** Understands the meaning and context of your query.  
+    - Finds conceptually similar papers, even with different wording.  
+    - Example: *Semantic Scholar* uses AI to identify related research, regardless of keyword overlap.  
+  - **Recommendation Engines:**  
+    - AI learns from search history and interactions to suggest relevant papers.  
+    - Tailors recommendations based on your interests and past work.  
+  - **Citation Networks:**  
+    - Analyzes citation relationships to reveal seminal works and the evolution of research in your area.
+
+---
+
+## Slide 13 – Extracting Key Information with AI
+
+- **Challenges in Manual Extraction:**  
+  - Time-consuming process of manually reading and summarizing numerous papers.
+
+- **AI Tools for Automation:**  
+  - **Summarization Tools:**  
+    - Generate concise summaries, highlighting key points like objectives, methodologies, and conclusions.  
+  - **Information Extraction:**  
+    - Identifies and extracts specific data such as experimental parameters, findings, and limitations.  
+  - **Topic Modeling:**  
+    - AI identifies themes within a collection of papers, revealing broader research trends.
+
+---
+
+## Slide 14 – Identifying Research Gaps and Citation Management with AI
+
+- **Identifying Research Gaps:**  
+  - AI analyzes literature to detect **underexplored areas**, **conflicting findings**, and **emerging trends**.  
+  - Suggests **future research directions** based on gaps in the current body of knowledge.
+
+- **AI-Enhanced Citation Management:**  
+  - Tools like **Zotero** and **Mendeley** now incorporate AI features:  
+    - **Automatic metadata retrieval.**  
+    - Suggest related papers and detect citation errors.  
+    - Helps organize references and perform literature reviews.
+
+---
+
+## Slide 15 – Example Platforms
+
+- **Semantic Scholar** ([semanticscholar.org](https://semanticscholar.org))  
+- **ResearchGate** ([researchgate.net](https://www.researchgate.net))  
+- **Elicit** ([elicit.org](https://elicit.org))  
+- **SciSpace** ([scispace.com](https://www.scispace.com))  
+- **Zotero** ([zotero.org](https://www.zotero.org))  
+- **Mendeley** ([mendeley.com](https://www.mendeley.com))
+
+
 
