@@ -1,5 +1,5 @@
 # Why AI is Becoming Increasingly Important in Research & Academia
-*(Your Name, Date)*
+*(Banedict Fring, Senior Software Engineer)*
 
 ---
 
