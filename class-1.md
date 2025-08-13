@@ -68,15 +68,9 @@
   5. Encourages interdisciplinary collaboration.  
 - **Final Thought:** Researchers who adapt AI into their workflow will have a significant advantage in discovery and innovation. 
 
-
-Here’s the updated **Markdown format** with slides numbered 8 through 11 after slide 7:
-
-```markdown
-# Simple Live Example: Literature Summarization with AI
-
 ---
 
-## Slide 8 – Introduction to the Tool
+## Slide 8 – Simple Live Example: Literature Summarization with AI. Introduction to the Tool
 - **Objective:** Demonstrate how AI can summarize research papers quickly.  
 - **Tool Choice:** We'll use **SciSpace (formerly Typeset)** – a web-based tool that uses AI for literature summarization.  
 - **Focus:** Show how the tool generates a concise summary of a research paper, saving researchers valuable time.
