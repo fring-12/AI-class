@@ -1251,3 +1251,161 @@ Optional – Sketch a visual to go with it
 > Every great piece of content starts with a well-fed mind.
 
 ---
+
+# 🧠 Advanced Techniques: Combining Text & Visuals
+
+The best content isn't just written or just visual—  
+it's the seamless **marriage of words and images**.
+
+> “When words speak and visuals show, engagement grows.”
+
+---
+
+# 🎯 Why Text + Visuals Work Better Together
+
+- Increases clarity and comprehension
+- Strengthens emotional impact
+- Boosts engagement and recall
+- Drives more clicks, shares, and conversions
+
+> People remember **80% of what they see**, and only **20% of what they read**
+
+(Source: The Power of Text-Visual Integration)
+
+---
+
+# 🤖 AI Makes Integration Easier Than Ever
+
+Tools like ChatGPT + DALL·E or Midjourney help:
+
+- Create cohesive copy + matching visuals
+- Design full social posts or blog sections with imagery
+- Build branding that feels intentional and seamless
+
+(Source: Creating Cohesive Content with ChatGPT and DALL·E)
+
+---
+
+# 🔥 Real-World Combo: ChatGPT + DALL·E
+
+Use ChatGPT to write:
+
+- Blog intros
+- Email hooks
+- Social captions
+- Ad copy
+
+Then use DALL·E to generate a matching visual, like:
+
+- A surreal image for a metaphor
+- A product mockup
+- A branded illustration in a specific tone
+
+(Source: Creating Cohesive Content with ChatGPT and DALL·E)
+
+---
+
+# 💡 Use Case: Social Media Storytelling
+
+Example content block:
+
+Caption:  
+"Feeling stuck? Even flowers bloom through concrete. 🌱"
+
+Visual Prompt:  
+A single flower pushing through a cracked concrete sidewalk, soft lighting, cinematic
+
+This kind of combo **tells a story, visually and emotionally.**
+
+(Source: Creating Interactive Content with ChatGPT and Midjourney)
+
+---
+
+# 🎨 Midjourney: Making Words Come to Life
+
+ChatGPT can:
+
+- Generate story prompts or concepts
+- Write image captions or scenarios
+- Suggest visual angles or metaphors
+
+Midjourney can:
+
+- Turn those ideas into stylized, stunning illustrations
+- Create immersive moods for campaigns
+- Translate tone into image
+
+> Text creates concept. Visuals bring it to life.  
+> (Source: Creating Interactive Content with ChatGPT and Midjourney)
+
+---
+
+# 📐 Design Principles That Matter
+
+1. Keep it clean — avoid clutter
+2. Be consistent with style, color, and tone
+3. Align message + imagery
+4. Use whitespace and contrast
+5. Maintain brand authenticity
+
+> Clarity = Impact  
+> (Source: Design Principles for Effective Text-Visual Integration)
+
+---
+
+# 🔄 Seamless Integration Strategy
+
+AI Tools That Work Together:
+
+- ChatGPT: text, storytelling, scripting
+- Canva: branded visuals + templates
+- Jasper.ai: content + image pairing
+- DALL·E / Midjourney: AI art generation
+- Notion / ClickUp: manage your pipeline
+
+> AI doesn’t replace your content team — it **supercharges** it.  
+> (Source: Strategies for Seamless Integration)
+
+---
+
+# 🧬 Personalization through AI
+
+Text-visual combos can also be **personalized**:
+
+- Dynamic text for different user segments
+- Visuals that reflect user preferences (color, tone, topic)
+- Personalized landing pages with tailored banners and messages
+
+(Source: Strategies for Seamless Integration)
+
+---
+
+# 🧪 Optional Activity
+
+Pick a product or idea.
+
+Step 1:  
+Write a headline using ChatGPT
+
+Step 2:  
+Write a visual prompt that matches it
+
+Step 3:  
+Share with the group and explain why the combo works
+
+Bonus:  
+Add a CTA and imagine where you'd use it (Instagram? Email? Slide?)
+
+---
+
+# ✅ Recap: Combining Text and Visuals
+
+- Text + visuals = higher impact, better engagement
+- Use AI tools to ideate, draft, and generate both sides
+- Stick to solid design principles
+- Use stories, emotion, and metaphor
+- Match tone, style, and format
+
+> Great content **says** and **shows** the message.
+
+---
