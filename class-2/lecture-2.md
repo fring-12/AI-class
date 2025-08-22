@@ -947,9 +947,3 @@ Your chatbot should:
 
 ---
 
-# ⏭️ Coming Up…
-
-📊 **Data-Driven Content Strategy with AI**  
-Now that we’ve talked to our audience —  
-let’s learn how to listen to their behavior.
-
