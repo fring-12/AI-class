@@ -108,6 +108,7 @@ You've met the robots.
 Now let's explore how they're already helping marketers…
 
 ---
+---
 
 # ✍️ Crafting Compelling Copy with ChatGPT
 
@@ -221,6 +222,7 @@ Let's build a live example together.
 - Your voice, editing, and empathy still matter
 - Use AI to speed up—but not skip—the human touch
 
+---
 ---
 
 # 🖼️ Visual Content Creation Using DALL·E
@@ -410,6 +412,7 @@ Watch how detail affects results, and which versions spark inspiration.
 - Use ethically and responsibly
 
 ---
+---
 
 # 🎨 Midjourney & Engaging Visual Content
 
@@ -588,6 +591,7 @@ Let’s generate and review!
 - Keep creativity aligned with your audience
 
 ---
+---
 
 # 🎥 Video Content with AI
 
@@ -763,6 +767,7 @@ Ask:
 - Customization + branding = 🔥 engagement
 - Use ethically and pair with human creativity
 
+---
 ---
 
 # 💬 Chatbots & Conversational Content
@@ -944,6 +949,7 @@ Your chatbot should:
 - Use responsibly and transparently
 
 ---
+---
 
 # 🤖 Other AI Applications in Marketing & Content Generation
 
@@ -1103,6 +1109,7 @@ Emerging trends to watch:
 - Choose tools that align with goals—not hype
 
 ---
+---
 
 # 🧠 Practical Implementation: Content Ideation
 
@@ -1244,6 +1251,7 @@ Optional – Sketch a visual to go with it
 
 > Every great piece of content starts with a well-fed mind.
 
+---
 ---
 
 # 🧠 Advanced Techniques: Combining Text & Visuals
@@ -1402,6 +1410,7 @@ Add a CTA and imagine where you'd use it (Instagram? Email? Slide?)
 
 > Great content **says** and **shows** the message.
 
+---
 ---
 
 # 📱 Creating Engaging Social Media Captions with ChatGPT
@@ -1647,6 +1656,7 @@ Step 3: Vote: Which feels more authentic? Why?
 > Strong brands don’t just talk _at_ people—they talk _with_ them.
 
 ---
+---
 
 # 📊 ChatGPT for Social Media Analytics & Optimization
 
@@ -1773,6 +1783,7 @@ Step 3: Share what AI got right vs what you’d refine.
 > Analytics turn content into strategy.
 
 ---
+---
 
 # 🔍 Optimizing Marketing Content: SEO & ChatGPT
 
@@ -1808,6 +1819,7 @@ marp: true
 theme: default
 paginate: true
 
+---
 ---
 
 # 🔍 Optimizing Marketing Content: SEO & ChatGPT
@@ -1923,7 +1935,6 @@ Step 3: Share with peers → which headline is strongest & why?
 > ChatGPT helps you rank. You ensure you resonate.
 
 ---
-
 ---
 
 # 📝 Creating SEO-Friendly Content with ChatGPT
@@ -2034,7 +2045,6 @@ Take a product or service you market.
 > ChatGPT gives you speed. You provide strategy & quality control.
 
 ---
-
 ---
 
 # ⚖️ Ethical Use of AI in Marketing
