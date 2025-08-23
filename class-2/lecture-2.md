@@ -1535,6 +1535,7 @@ Step 3: Share with the group → vote on the strongest one.
 > Great captions feel human, even when AI helps write them.
 
 ---
+---
 
 # 💬 Generating Conversational Content for Social Media
 
@@ -1810,14 +1811,6 @@ It’s evolving. And with ChatGPT, you can **create + optimize smarter**.
 - Focus on **user intent** & context, not just keywords
 - Prefer **human-authored content** for authenticity
 - Reward **tru**
-
----
-
----
-
-marp: true
-theme: default
-paginate: true
 
 ---
 ---
