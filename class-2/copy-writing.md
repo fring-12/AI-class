@@ -1,7 +1,3 @@
-### 📝 Live Lesson Notes: ChatGPT for Copywriting
-
----
-
 ### **Lesson 1: The "Tone Transformation" Challenge**
 
 **🎯 Goal:** To demonstrate how quickly ChatGPT can adapt its voice, proving the importance of a specific "persona" in a prompt.
